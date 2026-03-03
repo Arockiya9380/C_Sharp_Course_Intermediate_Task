@@ -1,0 +1,7 @@
+╔══ SAVINGS ACCOUNT REPORT ══════════════════════╗
+  Account : ACC-0001    Owner: Arockiya dass
+  Balance : ₹ 10,000.00    Interest Rate: 100.0%
+  Min Bal : ₹ 100.00    Transactions: 1
+╠════════════════════════════════════════════════╣
+  [1] Deposit — +₹ 10,000.00 (Income, Deposit, 2026-03-03)
+╚════════════════════════════════════════════════╝
